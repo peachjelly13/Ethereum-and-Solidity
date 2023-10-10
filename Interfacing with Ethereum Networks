@@ -1,0 +1,5 @@
+- For developers web3.js using code.
+- For users metamask and mint browser for consumers.
+- Mint browser used to browse Ethereum applications.
+- Metamask created an account for us, it created an account that has an address, a public key, and a private key.
+- Web3 library is a tool that we use to interact with any network not just Mainet but also Seploia

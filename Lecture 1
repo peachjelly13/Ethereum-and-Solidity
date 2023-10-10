@@ -1,0 +1,17 @@
+What is going to be covered:
+
+- What is Ethereum
+- How do we interact with Ethereum
+- Tooling , deploying and testing of Apps with Ethereum.
+- Building a multi page application with Ethereum.
+- Building applications with Ethereum.
+- Bitcoin : https://bitcoin.org/bitcoin.pdf
+- There are main Ethereum networks .
+- There are also test networks 
+- you can create your own ethereum network just for your machine there are many.
+- Ethereum network made by one or more nodes.
+- Each node is a machine running an ethereum client.
+- Anyone Can run a node download a client software and run it.
+- Each node has a separate copy of the blockchain 
+- 
+
